@@ -4,7 +4,7 @@
     
     <div id="footer">
       <div class="container">
-        <p class="muted credit">GuateJUG 2016 | Mixed with <a href="https://bootswatch.com/">Bootswatch</a> | Baked with <a href="http://jbake.org">JBake ${version}</a> | <a href="https://creativecommons.org/licenses/by-sa/3.0/gt/">CC-BY-SA GT </a></p>
+        <p class="muted credit">GuateJUG 2016 | Mixed with <a href="https://bootswatch.com/">Bootswatch</a> | Baked with <a href="http://jbake.org">JBake ${version}</a> | Chef <a href="https://vorozco.com">@tuxtor</a> |  <a href="https://creativecommons.org/licenses/by-sa/3.0/gt/">CC-BY-SA GT </a></p>
       </div>
     </div>
     
